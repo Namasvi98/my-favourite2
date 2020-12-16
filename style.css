@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background: linear-gradient(#b664f5 30%, #E1BEE7 50%, #64a1f5 70%, #90CAF9 100%);
+    background-repeat: no-repeat;
+    font-size: 40px;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    font-size: 29px;
+    text-align: center;
+}
+.links:hover{
+    background-color:#779eed;
+}
+#name { font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Calligraffitti', cursive;
+}
